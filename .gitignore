@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Godot
+.import/
+*.import
+export_presets.cfg
+*.pck
+*.exe
+*.dmg
+
+# БД и данные
+*.dump
+*.sql
+data/
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
